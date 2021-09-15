@@ -15,14 +15,14 @@
       {
         "id": "https://www.dropbox.com",
         "type": "Agent",
-        "label": { "en": [ "Matt Rader" ] }
+        "label": { "en": [ "MattRader" ] }
       }
     ],
     "items": [
       {
         "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 50 seconds,
+        "duration": 50,
         "items": [
           {
             "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/paintings",
@@ -34,7 +34,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://www.dropbox.com/s/2tzamvug5gghpix/Bitterroot%20i.wav?raw=1",
-                    "duration": 50 seconds
+                    "duration": 50
                 },
                 "target": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas"
               }
