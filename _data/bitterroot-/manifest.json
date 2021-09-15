@@ -23,6 +23,14 @@
         "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 50,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/lines.json",
+            "label": "Lines"
+          }
+        ],
         "items": [
           {
             "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/paintings",
