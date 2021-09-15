@@ -1,0 +1,722 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Bitterroot (i)  ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Work is holy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3.031824"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "my teacher said",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3.876285"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "looking out a window",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5.668192"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "at the empty expanse",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "6.755694"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "of our poems.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "7.847315"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beyond",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10.631979"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "where he could see,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "11.134537"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "in the arid, brush steppe",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "12.530988"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "above the city",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "13.923320"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "of Yakima, Washington,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "14.747185"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the bitteroot",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "16.971621"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "turned on",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "17.758412"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "its primus of pink",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "18.606994"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and white light",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "19.710973"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "a few hundred feet",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "21.494641"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "from the interstate.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "22.442086"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I'd worked forty years",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "24.835414"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "to see a thing",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.231865"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "so perfectly tuned",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "27.010418"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and burning clear",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "28.390392"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "below a sky's blue flame.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "29.951616"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Once a rattlesnake,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "34.178044"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the colour of Yakima",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "35.895803"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "earth lifted the ancient,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "37.053333"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "holy light of her rattle",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "38.824643"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "toward me.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "40.262288"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Through the window",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "42.997520"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "in her cage, I watched",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "43.656612"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the whole desert",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "45.081899"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "undulate",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "46.148804"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "down the hollow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "46.663720"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "coiled length",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "48.031336"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas/-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "of her body.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "48.772815"
+        }
+      }
+    }
+  ]
+}
