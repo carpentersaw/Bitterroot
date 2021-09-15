@@ -1,5 +1,5 @@
 ---
 layout: manifest
-title: Bitterroot (i)
+title: Bitterroot 
 manifest_name: bitterroot-
 ---

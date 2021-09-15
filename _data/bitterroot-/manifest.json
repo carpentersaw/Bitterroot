@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Bitterroot (i)" ] },
+    "label": { "en": [ "Bitterroot " ] },
     "homepage": [
       {
         "id": "https://www.dropbox.com",
         "type": "Text",
-        "label": { "en": [ "Bitterroot (i)" ] },
+        "label": { "en": [ "Bitterroot " ] },
         "format": "text/html"
       }
     ],
