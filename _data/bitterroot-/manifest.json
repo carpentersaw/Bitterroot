@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Bitterroot " ] },
+    "label": { "en": [ "Bitterroot (i)" ] },
     "homepage": [
       {
         "id": "https://www.dropbox.com",
         "type": "Text",
-        "label": { "en": [ "Bitterroot " ] },
+        "label": { "en": [ "Bitterroot (i)" ] },
         "format": "text/html"
       }
     ],
@@ -22,7 +22,7 @@
       {
         "id": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 50,
+        "duration": 50 seconds,
         "annotations": [
           
           {
@@ -42,7 +42,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://www.dropbox.com/s/2tzamvug5gghpix/Bitterroot%20i.wav?raw=1",
-                    "duration": 50
+                    "duration": 50 seconds
                 },
                 "target": "https://carpentersaw.github.io/Bitterroot/bitterroot-/canvas-1/canvas"
               }
